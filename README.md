@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, i'm Ruanito, but you can call me Ruan!
 
-<!--
-**ruanitoow/ruanitoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Developer** | 💻 **Game & Tech Enthusiast** | 🚀 **Always Learning**
 
-Here are some ideas to get you started:
+I'm a passionate programmer who enjoys learning new technologies, building projects from scratch, and understanding how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🌱 Currently learning and improving my skills every day  
+- 🧩 I like challenges that help me grow as a developer  
+- 🛠️ Interested in backend, game development, and low-level concepts  
+- 🔍 I enjoy understanding *why* things work, not just *how*
+
+---
+
+## 💻 Programming Skills
+
+### 🦀 Rust
+- 🟢 **Beginner**
+- Learning:
+  - Ownership & Borrowing
+  - Enums, Structs, and Pattern Matching
+  - Async concepts
+  - Backend fundamentals
+  - Modules
+
+### ☕ Java
+- 🟢 **Beginner**
+- Learning:
+  - Object-Oriented Programming (OOP)
+  - Plugins (Spigot / Minecraft)
+  - Clean and structured code
+
+### 🎮 LuaU
+- 🟡 **Intermediate**
+- Experience with:
+  - Game scripting
+  - Gameplay logic
+  - Abilities & Systems design
+  - Clean and Modular scripts
+
+---
+
+## 🧰 Tools & Technologies
+
+- 🧑‍💻 Git & GitHub
+- 🪟 Web development & systems curiosity  
+
+---
+
+## 🚀 Goals
+
+- 📌 Become advanced with **Rust** for big projects
+- 📌 Improve my **Java** skills for larger and cleaner projects  
+- 📌 Build complete, real-world projects  
+- 📌 Learn by doing, failing, and improving  
+
+---
+
+## 📫 Let's Connect
+
+- 💬 Feel free to explore my repositories  
+- ⭐ If you like something, don't forget to star it!
+
+---
+
+🔥 *“knowledge is never too much.”*  
+Thanks for visiting my profile!
