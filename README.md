@@ -11,7 +11,7 @@ I'm a passionate programmer who enjoys learning new technologies, building proje
 - 🌱 Currently learning and improving my skills every day  
 - 🧩 I like challenges that help me grow as a developer  
 - 🛠️ Interested in backend, game development, and low-level concepts  
-- 🔍 I enjoy understanding *why* things work, not just *how*
+- 🔍 I enjoy completely understanding *why* things work
 
 ---
 
