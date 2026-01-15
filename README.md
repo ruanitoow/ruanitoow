@@ -1,6 +1,6 @@
 # 👋 Hi, i'm Ruanito, but you can call me Ruan!
 
-🎯 **Aspiring Developer** | 💻 **Game & Tech Enthusiast** | 🚀 **Always Learning**
+🎯 **Developer** | 💻 **Game & Tech Enthusiast** | 🚀 **Always Learning**
 
 I'm a passionate programmer who enjoys learning new technologies, building projects from scratch, and understanding how things work under the hood.
 
